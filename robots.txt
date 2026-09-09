@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://culhan.github.io/reference-3847al/sitemap.xml
